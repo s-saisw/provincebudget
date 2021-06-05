@@ -6,6 +6,6 @@
 
 ## Webpage structure
 Same webpage structure for
-- <2561
-- 2560 to 2561
-- 2562 to 2564
+- <2560: download by frame source (How can we access id?)
+- 2560 to 2561: download by frame source
+- 2562 to 2564: direct download
